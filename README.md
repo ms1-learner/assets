@@ -39,4 +39,4 @@ You are now done creating the pull request. The next screen will show the detail
 ![Project Submission 4](https://github.com/ms1-learner/assets/blob/main/project-submission-4.png)
 ![Project Submission 5](https://github.com/ms1-learner/assets/blob/main/project-submission-5.png)
 
-That's it, all finished! You will be notified on MS1 when your project has been graded. If you do not pass the project check the pull request for comments from your instructor to find out what you need to change in order to pass. You can access the pull request page from your project GitHub repository. Your instructor will close the pull request after you have passed the project.
+That's it, all finished! You will be notified on MS1 when your project has been graded. If you do not pass the project, check the pull request for comments from your instructor to find out what you need to change in order to pass. You can access the pull request page from your project GitHub repository. Your instructor will close the pull request after you have passed the project.
