@@ -1,7 +1,7 @@
-# MS1 Challenge Guide
+# MS1 Project Guide
 A project is a crucial part of the MS1 learning experience that allows you to strengthen your understanding of the content covered in a module by giving you the chance to apply what you've learned to a problem that closely simulates a real-world situation. Some challenges are completed individually, giving you a chance to create a complex program start to finish on your own. Other projects are completed as a group, providing you with a collaborative experience that is similar to working in a real development team.
 
-## Accessing Challenges
+## Accessing Projects
 At the end of each module, you’ll find an instructions page for that module's project. The instructions page will contain a link to the project repository on GitHub. The repository may be a blank placeholder, or may contain some resources you will need to complete the project.
 
 The general link structure will be something like the following:
